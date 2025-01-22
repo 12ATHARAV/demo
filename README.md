@@ -1,2 +1,2 @@
 # demo
-My first git priject
+My first git project
