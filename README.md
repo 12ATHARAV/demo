@@ -1,2 +1,4 @@
 # demo
-My first git project
+My first Git repository
+<br>
+Author - Atharav Dhumone
